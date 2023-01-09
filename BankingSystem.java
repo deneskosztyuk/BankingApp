@@ -180,6 +180,7 @@ class Bank {
                 } 
                 else {
                     System.out.println("Wrong account number entered.");
+                    break;
                 }
                 case 3:
                     System.out.println("==============================================");
